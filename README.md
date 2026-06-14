@@ -1,6 +1,5 @@
 # Hide-Custom-ROM-Bootloader-
-For this specific module is made for Apatch and it's Forks also Ksu to.
-
+For this specific module is made for Apatch and it's Forks.
 Credit to Shamiko & Yuri btw. I modified it to work on all and help to hide the abnormality. But some phone may got detected from it... so reports to https://t.me/panu1919.
 
 Also it's Need tricky store or TEE-Simulator to work with Fetching Keybox.
